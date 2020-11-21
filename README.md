@@ -42,4 +42,9 @@
 
 <img align="left" alt="MySQL" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbgasparotto.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fmysql-logo.png&f=1&nofb=1"/>
 
+<br>
+
+[<img src="https://github-readme-stats.vercel.app/api?username=SantosOMartinez&hide=stars,prs&count_private=true&show_icons=true&theme=onedark&include_all_commits=true"/>][stats]
+
 [uprm]: https://www.uprm.edu/portada/
+[stats]: https://github.com/anuraghazra/github-readme-stats
