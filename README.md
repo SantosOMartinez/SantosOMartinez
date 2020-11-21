@@ -1,10 +1,10 @@
-### Santos O. Martínez Braña
+## Santos O. Martínez Braña
 
 <br>
 
 [<img alt="UPRM" height="128px" src="https://user-images.githubusercontent.com/60373473/75589685-d0ca6f80-5a51-11ea-84c5-1aa89821bf4a.png"/>][uprm]
 
-##### I am an undergraduate student at the _Universty of Puerto Rico: Mayagüez Campus_ Pursuing a bachelors in _Software Engineering_
+### I am an undergraduate student at the _Universty of Puerto Rico: Mayagüez Campus_ Pursuing a bachelors in _Software Engineering_
 
 - Working at the department of climatology to create a web application to serve Puerto Rico's historic weather data.
 
