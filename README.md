@@ -8,7 +8,7 @@
 
 - Working at the department of climatology to create a web application to serve Puerto Rico's historic weather data.
 
----
+<br>
 
 ### Languages and Tools:
 
