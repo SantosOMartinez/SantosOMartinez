@@ -44,6 +44,8 @@
 
 <br>
 
+---
+
 [<img src="https://github-readme-stats.vercel.app/api?username=SantosOMartinez&hide=stars,prs&count_private=true&show_icons=true&theme=onedark&include_all_commits=true"/>][stats]
 
 [uprm]: https://www.uprm.edu/portada/
