@@ -46,7 +46,7 @@
 
 ---
 
-[<img src="https://github-readme-stats.vercel.app/api?username=SantosOMartinez&hide=stars,prs&count_private=true&show_icons=true&theme=onedark&include_all_commits=true"/>][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=SantosOMartinez&hide=stars,prs&count_private=true&show_icons=true&theme=onedark&include_all_commits=false"/>][stats]
 
 [uprm]: https://www.uprm.edu/portada/
 [stats]: https://github.com/anuraghazra/github-readme-stats
