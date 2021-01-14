@@ -16,6 +16,8 @@
 
 <img align="left" alt="JavaScript" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"/>
 
+<img align="left" alt="TypeScript" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fremojansen%2Flogo.ts%2Fmaster%2Fts.png&f=1&nofb=1"/>
+
 <img align="left" alt="React" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcertifydtechnologies.com%2Ftemplates%2Ffront%2Fassets%2Fimages%2Flogos%2Freact_js.png&f=1&nofb=1"/>
 
 <img align="left" alt="Google Maps Api" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2FMaps_logo.max-2800x2800.png&f=1&nofb=1"/>
@@ -25,6 +27,8 @@
 <img align="left" alt="HTML" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2Fdownloads%2FHTML5_Logo_512.png&f=1&nofb=1"/>
 
 <img align="left" alt="CSS" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F8c%2F8cdf4c047e99f7389e76aa4e2e7e2803.png&f=1&nofb=1"/>
+
+<img align="left" alt="SASS" height="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpressupinc.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fsass-logo.png&f=1&nofb=1"/>
 
 <img align="left" alt="Python" height="28px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.trytoprogram.com%2Fimages%2Fpython_logo.png&f=1&nofb=1"/>
 
@@ -39,6 +43,7 @@
 <img align="left" alt="PostgreSQL" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchrisstump.online%2Fwp-content%2Fuploads%2F2016%2F04%2Fpostgres.png&f=1&nofb=1"/>
 
 <img align="left" alt="PostGIS" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.postgis.us%2Fpresentations%2Fimages%2Fpostgis-logo.png&f=1&nofb=1"/>
+
 
 <img align="left" alt="MySQL" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbgasparotto.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fmysql-logo.png&f=1&nofb=1"/>
 
