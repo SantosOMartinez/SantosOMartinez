@@ -45,7 +45,7 @@
 <img align="left" alt="PostGIS" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.postgis.us%2Fpresentations%2Fimages%2Fpostgis-logo.png&f=1&nofb=1"/>
 
 
-<img align="left" alt="MySQL" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbgasparotto.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fmysql-logo.png&f=1&nofb=1"/>
+<img align="center" alt="MySQL" height="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbgasparotto.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fmysql-logo.png&f=1&nofb=1"/>
 
 <br>
 
